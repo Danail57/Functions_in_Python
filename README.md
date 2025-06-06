@@ -6,7 +6,7 @@ This README provides an introduction to **functions in Python** — how to defin
 
 ---
 
-## What is a Function?
+## What is a Function? 
 
 A **function** is a reusable block of code that performs a specific task.
 
@@ -16,7 +16,7 @@ def function_name(parameters):
     # code block
     return result
 
-**Example**
+Example
 
 def rectangle_area(width, height):
     return area
