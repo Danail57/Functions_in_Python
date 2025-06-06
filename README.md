@@ -16,8 +16,7 @@ def function_name(parameters):
     # code block
     return result
 
-
-# **Example**
+**Example**
 
 def rectangle_area(width, height):
     return area
