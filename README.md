@@ -11,12 +11,11 @@ This README provides an introduction to **functions in Python** — how to defin
 A **function** is a reusable block of code that performs a specific task.
 
 ### Syntax:
-
-
 ```python
 def function_name(parameters):
     # code block
     return result
+
 
 # Example
 
