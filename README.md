@@ -2,7 +2,7 @@
 
 # Python Functions Guide
 
-This README provides an introduction to **functions in Python** — how to define, call, and use them effectively.
+This README provides an introduction to **functions in Python** - how to define, call, and use them effectively.
 
 ---
 
