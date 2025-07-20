@@ -5,8 +5,6 @@ def available_models():
         'Lamborghini Elemento': 100000,
         'Koenigsegg Agera': 4000000
     }
-
-
 def budget():
     models = available_models()
     user_budget = int(input('Enter your budget: '))
@@ -22,5 +20,4 @@ def budget():
             print(f'- {car}')
     else:
         print('Your budget is too low for these cars.')
-
 budget()
